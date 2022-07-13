@@ -1,13 +1,15 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.boton{
+  padding: 0 10px;
+  color: rgb(77, 77, 77);
+  border-width: 1px;
+  border-color: rgb(77, 77, 77);
+  margin: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.botonCarrito{
+  padding: 5px 20px;
+  color: rgb(77, 77, 77);
+  border-width: 1px;
+  border-color: rgb(77, 77, 77);
+  margin: 10px;
 }
