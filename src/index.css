@@ -13,3 +13,40 @@
   border-color: rgb(77, 77, 77);
   margin: 10px;
 }
+
+/* button{
+  user-select: none;
+} */
+
+ul {
+  list-style-type: none;
+}
+
+.item {
+  display: inline-block;
+  width: 200px;
+  border: 2px solid rgb(220, 220, 220);
+  border-radius: 10px;
+  height: 200px;
+  margin: 3px;
+  padding: 10px;
+}
+
+img {
+  height: 70%;
+}
+
+h1{
+  color:rgb(68, 68, 68);
+}
+
+.list{
+  display:flex;
+  justify-content: space-evenly;
+  margin: 50px;
+  
+}
+
+.item-container{
+  margin: 100px 0;
+}
